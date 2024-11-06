@@ -1,21 +1,21 @@
 import { motion } from 'framer-motion';
-import { Palette, Smartphone, Monitor, Tablet } from 'lucide-react';
+import { Palette, Github, Figma, Tablet } from 'lucide-react';
 
 const designs = [
   {
-    title: 'Mobile App Design',
-    description: 'Intuitive and engaging mobile app interfaces',
-    image: 'https://images.unsplash.com/photo-1551650975-87deedd944c3?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80',
-    icon: Smartphone,
-  },
-  {
-    title: 'Web Design',
+    title: 'Design figma',
     description: 'Responsive and modern web experiences',
     image: 'https://images.unsplash.com/photo-1522542550221-31fd19575a2d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80',
-    icon: Monitor,
+    icon: Figma,
   },
   {
-    title: 'Tablet Apps',
+    title: 'Production',
+    description: 'Intuitive and engaging mobile app interfaces',
+    image: 'https://images.unsplash.com/photo-1551650975-87deedd944c3?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80',
+    icon: Github,
+  },
+  {
+    title: 'Deployment',
     description: 'Optimized interfaces for tablet devices',
     image: 'https://images.unsplash.com/photo-1544256718-3bcf237f3974?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80',
     icon: Tablet,

@@ -71,7 +71,7 @@ export default function Skills() {
           <h2 className="text-4xl font-bold text-gray-900 dark:text-white mb-4">
             Technical Skills
           </h2>
-          <p className="text-xl text-gray-600 dark:text-gray-300">Technologies I work with</p>
+          <p className="text-xl text-gray-600 dark:text-gray-300">technologies that I try to master</p>
         </motion.div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
