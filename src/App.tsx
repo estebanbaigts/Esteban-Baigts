@@ -5,7 +5,6 @@ import Header from './components/Header';
 import Hero from './components/Hero';
 import Projects from './components/Projects';
 import Skills from './components/Skills';
-import Mail from './components/GetInTouch';
 
 function App() {
   return (
@@ -22,7 +21,6 @@ function App() {
         <Projects />
         <Skills />
         <Design />
-        {/* <Mail /> */}
       </main>
     </motion.div>
   );
