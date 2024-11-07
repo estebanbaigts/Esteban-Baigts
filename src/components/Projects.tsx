@@ -11,7 +11,7 @@ const projects = [
   },
   {
     title: 'MOODLY',
-    description: 'MOODLY est un projet visant à optimiser le processus onboarding en entreprise en utilisant des outils interactifs pour améliorer expérience des nouveaux employés. Ce projet fournit une plateforme intuitive et accessible pour suivre intégration, recueillir les ressentis et simplifier accès aux informations essentielles.',
+    description: 'MOODLY is a project aimed at optimizing the onboarding process in companies by using interactive tools to improve the new employee experience. This project provides an intuitive and accessible platform to track integration, collect feedback and simplify access to essential information.',
     image: 'mood.jpg',
     tags: ['React', 'Tailwind CSS', 'Node.js', 'Firebase', 'MongoDB'],
     githubLink: 'https://github.com/estebanbaigts/MOODLY',
