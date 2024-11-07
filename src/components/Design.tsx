@@ -4,19 +4,19 @@ import { Palette, Github, Figma, Tablet } from 'lucide-react';
 const designs = [
   {
     title: 'Design figma',
-    description: 'Responsive and modern web experiences',
+    description: 'Responsive and modern web design',
     image: 'https://images.unsplash.com/photo-1522542550221-31fd19575a2d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80',
     icon: Figma,
   },
   {
     title: 'Production',
-    description: 'Intuitive and engaging mobile app interfaces',
+    description: 'Fast and clean production',
     image: 'https://images.unsplash.com/photo-1551650975-87deedd944c3?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80',
     icon: Github,
   },
   {
     title: 'Deployment',
-    description: 'Optimized interfaces for tablet devices',
+    description: 'We make sure to put your app or web app online',
     image: 'https://images.unsplash.com/photo-1544256718-3bcf237f3974?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80',
     icon: Tablet,
   },
