@@ -64,6 +64,7 @@ export default function Header() {
             whileTap={{ scale: 0.95 }}
             onClick={() => setIsOpen(!isOpen)}
             className="md:hidden p-2"
+            aria-label={!isOpen ? 'Open menu' : 'Close menu'}
           >
             <div className="w-6 h-0.5 bg-gray-600 dark:bg-gray-300 mb-1.5" />
             <div className="w-6 h-0.5 bg-gray-600 dark:bg-gray-300 mb-1.5" />
